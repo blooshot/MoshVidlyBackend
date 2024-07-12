@@ -1,5 +1,6 @@
 ## Introduction
 
+Just Updated few libraries and so it can be run in 2024
 This project is the backend of Vidly, an imaginary video rental app. I've used Vidly as an example in several of my online programming courses, such as:
 
 - https://codewithmosh.com/p/mastering-react
